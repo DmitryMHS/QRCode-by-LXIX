@@ -1,3 +1,4 @@
+# Copyright (c) 2025 LXIX. Licensed under MIT.
 import sys
 from PyQt5 import QtWidgets, QtGui, QtCore
 from PyQt5.QtWidgets import QFileDialog
