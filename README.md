@@ -45,7 +45,6 @@
 ```bash
 python main.py
 ```
-*На Windows можно просто双击 `main.py`*
 
 ---
 
@@ -54,17 +53,13 @@ python main.py
 2. Нажмите **"Выбрать"** для добавления логотипа (опционально)
 3. Кликните **"Сгенерировать QR-Code"**
 4. Сохраните результат через **"Сохранить QR-Code"**
-
-![Демо-гифка](demo.gif)
+(Последнея генерация автоматически сохраняется в папке с программой)
 
 ---
 
 ## 🛠 Технологии
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" width="40" title="Python">
-  <img src="https://img.icons8.com/color/48/000000/qt.png" width="40" title="PyQt5">
-  <img src="https://img.icons8.com/ios-filled/50/000000/qr-code.png" width="40" title="qrcode">
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="40" title="Pillow (PIL)">
 </div>
 
 - **Python 3.10+** — базовый язык
@@ -83,5 +78,5 @@ python main.py
 <div align="center">
   <br>
   <strong>Создано с ❤️ для сообщества</strong>  
-  ✉️ По вопросам: ваш@email.com | 💼 [Portfolio](https://ваш-сайт)
+  ✉️ По вопросам TG: @LXIX_DEVELOPER | 💼
 </div>
