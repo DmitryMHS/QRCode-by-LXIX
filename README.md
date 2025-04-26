@@ -93,7 +93,8 @@ python main.py
 <div align="center">
   <br>
   <strong>Создано с ❤️ для сообщества</strong>  
-  ✉️ По вопросам TG: @LXIX_DEVELOPER | 💼
+  ✉️ TG: https://t.me/LXIXdev | 💼 Discord: https://discord.gg/bGY8sth6yB
 </div>
+
 
 ---
